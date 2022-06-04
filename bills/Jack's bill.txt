@@ -1,0 +1,7 @@
+Bill breakdown: 
+espresso:                 ...$1.15
+cinnamon roll:            ...$3.49
+chocolate muffin:         ...$2.49
+tip:                      ...$2.87
+
+total:                    ...$10.00
