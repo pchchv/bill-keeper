@@ -36,7 +36,7 @@ func (b *bill) format() string {
 
 // update tip
 func (b *bill) updateTip(tip float64) {
-	b.tip = tip
+	(*b).tip = tip
 }
 
 // add an item to the bill
